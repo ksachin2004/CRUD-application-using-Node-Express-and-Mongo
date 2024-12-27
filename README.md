@@ -1,6 +1,6 @@
 # CRUD Application using Node.js, Express, and MongoDB
 
-This is a simple CRUD (Create, Read, Update, Delete) API built using Node.js, Express.js, and MongoDB. The application allows you to manage products with attributes such as name, quantity, price, and image.
+This is a simple CRUD (Create, Read, Update, Delete) API built using Node.js, Express.js, and MongoDB. The application allows us to manage products with attributes such as name, quantity, price, and image.
 
 ## Features
 - **Create** a new product
@@ -18,9 +18,6 @@ This is a simple CRUD (Create, Read, Update, Delete) API built using Node.js, Ex
 - **Delete** a product by ID
   ![DELETE Request](assets/DELETE%20request.png)
 
-## Prerequisites
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [MongoDB](https://www.mongodb.com/) (local or Atlas instance)
 
 
 
